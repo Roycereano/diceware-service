@@ -17,6 +17,6 @@ public class HelloWorldController {
 
   @GetMapping("goodjob")
   public String goodJob() {
-    return "You're building a server then soon onto a webservice, congratulations";
+    return "You're building a server then onto a webservice, congratulations";
   }
 }
